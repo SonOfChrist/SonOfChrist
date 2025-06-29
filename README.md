@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonofchrist" alt="sonofchrist" /></a> </p>
 
-- 🌱 I’m currently learning **BSc(HONS) Cyber Security And Networking**
+- 🌱 I Accured **BSc(HONS) Cyber Security And Networking**
 
-- 👯 I’m looking to collaborate on **React And Laravel**
+- 👯 I’m looking to collaborate on **JavaScript,PHP,React,Tailwind And Laravel**
 
 - 🤝 I’m looking for help with **Software Developers**
 
