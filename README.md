@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonofchrist" alt="sonofchrist" /></a> </p>
 
-- 🌱 I Accured **BSc(HONS) Cyber Security And Networking**
+- 🌱 I Accured **BSc(HONS) Cyber Security And Networking in June 2025**
 
-- 👯 I’m looking to collaborate on **JavaScript,PHP,React,Tailwind And Laravel**
+- 👯 I’m looking to collaborate on **React, JavaScript, Node.Js, Express.Js, MangoDB,PHP,React,Tailwind And Laravel**
 
 - 🤝 I’m looking for help with **Software Developers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SonOfChrist](https://github.com/SonOfChrist)
 
-- 💬 Ask me about **React, JavaScript, Laravel,Php(Consuming apis, Payment Intergration, Database, Logic writings etc.)**
+- 💬 Ask me about **React, JavaScript, Node.Js, Express.Js, MangoDB, Laravel,Php(Consuming apis, Payment Intergration, Database, Logic writings etc.)**
 
 - 📫 How to reach me **mochogestanley80@gmail.com**
 
