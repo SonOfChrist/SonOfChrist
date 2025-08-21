@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stanley Mochoge</h1>
-<h3 align="center">A passionate Frontend And BackEnd developer from Nairobi{Kenya}</h3>
+<h3 align="center">A passionate Cyber Security and Frontend, BackEnd developer from Nairobi{Kenya}</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonofchrist&label=Profile%20views&color=0e75b6&style=flat" alt="sonofchrist" /> </p>
 
