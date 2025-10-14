@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stanley Mochoge</h1>
-<h3 align="center">A passionate Cyber Security and Frontend, BackEnd developer from Nairobi{Kenya}</h3>
+<h3 align="center">A passionate Cyber Security and Cloud Virtualisation Security Frontend and BackEnd developer from Nairobi{Kenya}</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonofchrist&label=Profile%20views&color=0e75b6&style=flat" alt="sonofchrist" /> </p>
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/stanley-mochoge-238038220/](https://www.linkedin.com/in/stanley-mochoge-238038220/)
 
-- ⚡ Fun fact **Am an Awesome system Developer**
+- ⚡ Fun fact **Am an Awesome System Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
